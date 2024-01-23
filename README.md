@@ -11,3 +11,8 @@ My favourite Restaurant is Kaveri Family Restaurant which is Located in **Khamma
 2. Mutton Pulao
 3. Fish Fry
 4. Egg Dum Biryani
+
+- Charminar
+- Taj Mahal
+- Nellore
+- Golden Temple
