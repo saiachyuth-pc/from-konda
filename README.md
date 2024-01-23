@@ -16,3 +16,5 @@ My favourite Restaurant is Kaveri Family Restaurant which is Located in **Khamma
 - Taj Mahal
 - Nellore
 - Golden Temple
+
+[MyMedia](/MyMedia.md)
