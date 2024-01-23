@@ -18,8 +18,8 @@ My Favorite song is "Pranamam ", It was Composed by Famous Musician Devi Sri Pra
 
 ---
 # Quotes
-> "Arise, awake, and stop not until the goal is achieved."
-> "You cannot believe in God until you believe in yourself."
+> "Arise, awake, and stop not until the goal is achieved."  
+> "You cannot believe in God until you believe in yourself."  
 > "Take risks in your life, if you win, you can lead! If you lose, you can guide!"  
                            -*Swami Vivekananda*
 ---
