@@ -23,3 +23,22 @@ My Favorite song is "Pranamam ", It was Composed by Famous Musician Devi Sri Pra
 > "Take risks in your life, if you win, you can lead! If you lose, you can guide!"  
                            -*Swami Vivekananda*
 ---
+# Code Fencing
+
+This is a basic overview of using the EventEmitter in Node.js. You can explore additional methods and features provided by the EventEmitter class based on your application needs.
+
+```
+const myEmitter = new EventEmitter();
+
+function c1() {
+	console.log('an event occurred!');
+}
+
+function c2() {
+	console.log('yet another event occurred!');
+}
+
+myEmitter.on('eventOne', c1); // Register for eventOne
+myEmitter.on('eventOne', c2); // Register for eventOne 
+```
+<https://code.pieces.app/collections/node-js>
